@@ -6,6 +6,8 @@ AWS video file upload and process.
 
 ## Prerequisites
 
+- Cloud provider: AWS
+
 ## Project Team
 
 - @lilitZak - project lead

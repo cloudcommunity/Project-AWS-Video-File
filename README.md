@@ -13,3 +13,6 @@ AWS video file upload and process.
 - @lilitZak - project lead
 - @karentamrazyan - project coordinator
 - ...
+
+## Use Case
+

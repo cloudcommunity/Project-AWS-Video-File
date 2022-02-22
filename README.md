@@ -24,7 +24,7 @@ To create a pipeline to accomplish the tasks listed in the "use case" chapter.
 2. event should be generated on file upload, then lambda function will ping an ec2 instance and supply the address of the file to it
 3. ec2 instance is like a black box. It process the video file.
 
-Question: should the file be locally copied to the ec2 instance or not?
+Question: should the file be locally copied to the ec2 instance or not? Should be answered during the solution finding process.
 
 4. send email with a report to the provided email
 

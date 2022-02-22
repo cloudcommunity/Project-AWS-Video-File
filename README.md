@@ -29,3 +29,6 @@ Question: should the file be locally copied to the ec2 instance or not? Should b
 4. send email with a report to the provided email
 
 Store everything is a database.
+
+## Images
+

@@ -16,7 +16,7 @@ To create a pipeline to accomplish the tasks listed in the "use case" chapter.
 
 - @lilitZak - project lead
 - @karentamrazyan - project coordinator
-- ...
+- new members can apply via https://forms.gle/BkxWRvagVJ9QL1yx6
 
 ## Use Case
 
